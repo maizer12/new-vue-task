@@ -1,0 +1,26 @@
+[
+	{
+			"phone": "+1 (555) 123-4567",
+			"address": "123 Main St, Anytown, USA"
+	},
+	{
+			"phone": "+44 20 1234 5678",
+			"address": "456 Elm St, Somewhere, UK"
+	},
+	{
+			"phone": "+61 2 9876 5432",
+			"address": "789 Oak St, Anyplace, Australia"
+	},
+	{
+			"phone": "+33 1 23 45 67 89",
+			"address": "321 Maple St, Somewhereelse, France"
+	},
+	{
+			"phone": "+81 3 1234 5678",
+			"address": "987 Pine St, Anywhere, Japan"
+	},
+	{
+			"phone": "+49 30 12345678",
+			"address": "654 Birch St, Somecity, Germany"
+	}
+]
